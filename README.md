@@ -7,4 +7,4 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=9WiSHao&show_icons=true)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9WiSHao&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9WiSHao&layout=compact&exclude_repo=9WiSHao.github.io)
