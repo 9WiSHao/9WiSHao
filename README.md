@@ -1,5 +1,5 @@
-这个人在摆了很长时间之后终于重拾编程
-#### 希望他能坚持下去
+front-End developer
+learning
 
 [blog](https://wishao.fun/)
 
