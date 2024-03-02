@@ -1,7 +1,8 @@
 front-End developer
-learning
 
-[blog](https://wishao.fun/)
+learning...
+
+[my blog](https://wishao.fun/)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9WiSHao)](https://github.com/anuraghazra/github-readme-stats)
 </br>
