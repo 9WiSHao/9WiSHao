@@ -1,6 +1,6 @@
-front-End developer
+front-End developer **@Tencent**
 
-learning...
+keep learning
 
 [my blog](https://wishao.fun/)
 
